@@ -1,2 +1,2 @@
 
-print("Hello, I'm still master!")
+print("Hello, I'm evil!")
